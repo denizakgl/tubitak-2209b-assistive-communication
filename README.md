@@ -4,7 +4,7 @@ Research participation portfolio for a collaborative mobile communication projec
 
 **Status as of 31 October 2026:** accepted under the program; official project closure approval is pending, according to the project lead's update relayed by Devran Deniz Akgül. This status does not establish completed implementation or final approval of the research results.
 
-**Repository type:** research documentation and personal role record. **My role:** project participant with proposal-assigned testing and feedback responsibilities. I did not write application source code.
+**Repository type:** research documentation and personal role record. **My role:** project participant with proposal-assigned testing and feedback responsibilities.
 
 ## Project Overview
 
@@ -104,4 +104,3 @@ The project lead has permitted a portfolio description of the project and my rol
 | [My contributions](docs/my-contributions.md) | Documented assignments, confirmed role limits and source basis |
 | [Testing approach](docs/testing-approach.md) | Illustrative scenarios prepared for this portfolio; no execution results |
 
-Prepared on 31 October 2026 from the 2024/1 proposal and the repository owner's subsequent clarifications. The original application and approval records are not reproduced here.
