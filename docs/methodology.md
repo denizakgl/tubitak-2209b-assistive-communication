@@ -30,7 +30,7 @@ The application defines five work packages over **12 relative project months**. 
 | WP4 | 10-11 | Add notifications and personalized content upload | Ferhat Baydır; Devran Deniz Akgül |
 | WP5 | 12 | End-user tests and final adjustments | Eren Malkoç; Ferhat Baydır; Devran Deniz Akgül |
 
-This table records assignment, not execution. In particular, Devran Deniz Akgül confirms that he did not write source code, including during the jointly assigned feature work package.
+This table records planned responsibilities, not verified completion of individual work packages. Separately, Devran Deniz Akgül reports collaborating with project lead Eren Malkoç on basic Flutter code modifications and incremental improvements. These contributions do not establish independent implementation of complete features or ownership of the application's codebase.
 
 ## Proposed evaluation and iteration
 
