@@ -4,7 +4,7 @@ Research participation portfolio for a collaborative mobile communication projec
 
 **Status as of 31 October 2026:** accepted under the program; official project closure approval is pending, according to the project lead's update relayed by Devran Deniz Akgül. This status does not establish completed implementation or final approval of the research results.
 
-**Repository type:** research documentation and personal role record. **My role:** project participant with proposal-assigned testing and feedback responsibilities.
+**Repository type:** research documentation and personal role record. **My role:** project participant who collaborated on basic Flutter code improvements, with proposal-assigned testing and feedback responsibilities.
 
 ## Project Overview
 
@@ -68,7 +68,7 @@ Page 6 of the proposal assigns me the following work:
 | WP4: Advanced features | Shared assignment with Ferhat Baydır for the work package covering notifications and personalized content upload | Months 10-11 |
 | WP5: Final testing and refinement | Shared assignment with Eren Malkoç and Ferhat Baydır for end-user testing and final adjustments | Month 12 |
 
-**I did not write source code for this project.** The work-package assignments do not establish that I implemented modules, fixed code or completed every planned test. Specific executed activities and outcomes are not yet substantiated in this portfolio. See the [role record and evidence boundaries](docs/my-contributions.md).
+I collaborated with project lead Eren Malkoç on basic Flutter code modifications and incremental improvements. The project proposal also assigned me responsibilities in functional testing, user-feedback evaluation, and final refinement. These assignments do not establish that I independently implemented complete features or completed every planned testing activity. See the [role record and evidence boundaries](docs/my-contributions.md).
 
 ## Team and Academic Context
 
@@ -78,9 +78,9 @@ This was a collaborative undergraduate research project within the TÜBİTAK 220
 | --- | --- |
 | Eren Malkoç | Project lead; application development and TTS with Ferhat; interface refinement; final testing with the team |
 | Ferhat Baydır | Team member; application development and TTS with Eren; advanced features with Devran; final testing with the team |
-| Devran Deniz Akgül | Team member; functional testing and feedback evaluation; shared advanced-feature and final-testing work packages |
+| Devran Deniz Akgül | Project participant; collaborated with Eren Malkoç on basic Flutter code modifications and improvements; proposal-assigned functional testing, feedback evaluation, and shared advanced-feature and final-testing responsibilities |
 
-These are proposal assignments, not a verified record of completed development by individual team members. The proposal also identifies academic and industry supervision.
+The work-package responsibilities are based on the original project proposal. My basic Flutter code contributions are described based on my direct participation alongside Eren Malkoç. These contributions do not imply independent ownership of application features or the complete codebase.
 
 ## Project Status
 
