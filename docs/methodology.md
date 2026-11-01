@@ -56,11 +56,13 @@ The proposal aims to produce a personalized communication application and inform
 
 These remain **expected outputs in the application**. This portfolio makes no claim of a completed release, publication, presentation, patent, commercial outcome or measured user benefit. Quantitative proposal targets are not reported as achieved results.
 
-## Source basis
+## Source Basis
 
-- Proposal pages 2-5: purpose, objectives, two user modes and technical method.
-- Page 6: work packages, assignments and relative timeline.
-- Page 7: risks and proposed mitigations.
-- Page 8: expected outputs and wider impact.
+This documentation is based on the original TÜBİTAK 2209-B research proposal:
 
-The original PDF and its third-party illustrations are not distributed in this repository. This summary was prepared on 31 October 2026.
+- Pages 2–5: Project objectives and methodology
+- Page 6: Work packages and team responsibilities
+- Page 7: Risk management
+- Page 8: Expected outcomes and impact
+
+The original research proposal is not publicly distributed in this repository.
